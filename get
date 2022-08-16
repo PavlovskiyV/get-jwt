@@ -1,0 +1,17 @@
+```sql
+
+{
+   "CRC":"",
+   "Packet":{
+      "JWT":"null",
+      "MethodName": "GetJWT",
+      "ServiceNumber":"3AF767A0-4F29-47BB-8A44-AEBFEEAB494E",
+      "Data":{
+          "LoginName":"691536217_Samohval",
+          "Password":"RCRJSCSWGCZNKSX",
+          "LoginNameTypeId":"1" 
+      }
+   }
+}
+
+```
